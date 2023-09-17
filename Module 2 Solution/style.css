@@ -4,11 +4,11 @@
 
 
 section {
-  border: 1px white solid;
+  border: 1.5px black solid;
   width: 33.33%;
   float: left;
   position: relative;
-  /* margin: 1%; */
+  
 
   padding: 10px;
   padding-top: 60px;
